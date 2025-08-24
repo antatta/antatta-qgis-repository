@@ -1,11 +1,11 @@
 # 🗺️ Antatta QGIS Plugin Repository
 
-Repository personalizzato per la distribuzione di plugin QGIS sviluppati da **Ing. Antonio Attadia**.
+Repository per la distribuzione di plugin QGIS sviluppati da **Ing. Antonio Attadia**.
 
 ## 🚀 Plugin Disponibili
 
 ### AUTOMATE v2.0
-**Advanced GIS toolkit per progetti di infrastrutture gas**
+**Plug-in QGIS per progetti di infrastrutture gas**
 - ✅ Gestione RG_COD con automazione
 - ✅ PhotoEditor con integrazione Google Street View
 - ✅ Sistema di controllo qualità
@@ -27,8 +27,8 @@ Repository personalizzato per la distribuzione di plugin QGIS sviluppati da **In
 Aggiungi queste righe al file `QGIS3.ini`:
 ```ini
 [PythonPlugins\plugin_installer]
-4\name=Antatta QGIS Plugins
-4\url=https://raw.githubusercontent.com/antatta/antatta-qgis-repository/main/plugins.xml
+name=Antatta QGIS Plugins
+url=https://raw.githubusercontent.com/antatta/antatta-qgis-repository/main/plugins.xml
 ```
 
 ## 🔧 Dopo l'Aggiunta del Repository
@@ -60,12 +60,12 @@ antatta-qgis-repository/
 ## 🐛 Segnalazione Problemi
 
 Hai trovato un bug o hai un suggerimento?
-- 📧 Email: antonio.attadia@italgas.it
+- 📧 Email: info.antatta@italgas.it
 - 🔗 Issues: [Segnala un problema](https://github.com/antatta/antatta-qgis-repository/issues)
 
 ## 📄 Licenza
 
-Questo repository e i plugin contenuti sono distribuiti sotto licenza [MIT License](LICENSE).
+Questo repository e i plugin contenuti sono distribuiti sotto licenza [Commerciale](LICENSE).
 
 ## 🔄 Ultimo Aggiornamento
 
@@ -74,4 +74,4 @@ Questo repository e i plugin contenuti sono distribuiti sotto licenza [MIT Licen
 
 ---
 
-*Repository mantenuto da **Ing. Antonio Attadia** - Italgas Reti S.p.a.*
+*Repository mantenuto da **Ing. Antonio Attadia***
