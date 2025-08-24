@@ -1,0 +1,27 @@
+Questo plugin utilizza librerie di terze parti.  
+Tali librerie restano di proprietà dei rispettivi autori e sono rilasciate sotto le licenze indicate.  
+Il plugin non modifica né redistribuisce tali librerie, ma le utilizza come dipendenze standard.
+
+- GDAL/OGR (MIT/X License)
+  https://gdal.org/license.html
+
+- pandas (BSD-3-Clause License)
+  https://github.com/pandas-dev/pandas/blob/main/LICENSE
+
+- GeoPandas (BSD-3-Clause License)
+  https://github.com/geopandas/geopandas/blob/main/LICENSE
+
+- Shapely (BSD-3-Clause License)
+  https://github.com/shapely/shapely/blob/main/LICENSE.txt
+
+- Fiona (BSD-3-Clause License)
+  https://github.com/Toblerity/Fiona/blob/main/LICENSE.txt
+
+- requests (Apache 2.0 License)
+  https://github.com/psf/requests/blob/main/LICENSE
+
+- PyYAML (MIT License)
+  https://github.com/yaml/pyyaml/blob/main/LICENSE
+
+- PyQt5 (GPL v3 License)
+  https://www.riverbankcomputing.com/static/Docs/PyQt5/introduction.html#license  
