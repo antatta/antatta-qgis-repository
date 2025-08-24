@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+QGIS Plugin Repository XML Template
+This file serves as a template for automated plugin deployment.
+
+Template variables:
+- {{PLUGIN_NAME}}: Nome del plugin
+- {{VERSION}}: Versione del plugin  
+- {{DESCRIPTION}}: Descrizione breve
+- {{ABOUT}}: Descrizione dettagliata
+- {{AUTHOR}}: Nome autore
+- {{EMAIL}}: Email autore
+- {{HOMEPAGE}}: Homepage del plugin
+- {{UPDATE_DATE}}: Data ultimo aggiornamento
+- {{QGIS_MIN}}: Versione minima QGIS
+- {{QGIS_MAX}}: Versione massima QGIS
+- {{TAGS}}: Tag separati da virgola
+- {{CATEGORY}}: Categoria del plugin
+- {{EXPERIMENTAL}}: True/False
+- {{DEPRECATED}}: True/False
+- {{SERVER}}: True/False
+-->
+<plugins>
+    <pyqgis_plugin name="{{PLUGIN_NAME}}" version="{{VERSION}}">
+        <description><![CDATA[{{DESCRIPTION}}]]></description>
+        <about><![CDATA[{{ABOUT}}]]></about>
+        <version>{{VERSION}}</version>
+        <qgis_minimum_version>{{QGIS_MIN}}</qgis_minimum_version>
+        <qgis_maximum_version>{{QGIS_MAX}}</qgis_maximum_version>
+        <homepage><![CDATA[{{HOMEPAGE}}]]></homepage>
+        <file_name>{{PLUGIN_NAME}}.zip</file_name>
+        <icon>https://raw.githubusercontent.com/antatta/antatta-qgis-repository/main/plugins/{{PLUGIN_NAME}}/icon.png</icon>
+        <author_name><![CDATA[{{AUTHOR}}]]></author_name>
+        <download_url>https://github.com/antatta/antatta-qgis-repository/raw/main/plugins/{{PLUGIN_NAME}}/{{PLUGIN_NAME}}.zip</download_url>
+        <uploaded_by><![CDATA[{{AUTHOR}}]]></uploaded_by>
+        <create_date>{{UPDATE_DATE}}</create_date>
+        <update_date>{{UPDATE_DATE}}</update_date>
+        <experimental>{{EXPERIMENTAL}}</experimental>
+        <deprecated>{{DEPRECATED}}</deprecated>
+        <tracker><![CDATA[https://github.com/antatta/antatta-qgis-repository/issues]]></tracker>
+        <repository><![CDATA[https://github.com/antatta/antatta-qgis-repository]]></repository>
+        <tags><![CDATA[{{TAGS}}]]></tags>
+        <server>{{SERVER}}</server>
+        <category>{{CATEGORY}}</category>
+        <plugin_id>1</plugin_id>
+    </pyqgis_plugin>
+</plugins>
