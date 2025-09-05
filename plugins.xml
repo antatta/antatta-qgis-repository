@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugins>
+    <pyqgis_plugin name="automate" version="2.0.0">
+        <description>Plug-in QGIS per progetti di infrastrutture gas [TEMPLATE PERSONALIZZATO]</description>
+        <about>The AUTOMATE plugin for QGIS v2 is a comprehensive, modular toolkit for GIS-based gas infrastructure project design according to TENG specifications (Italgas Reti S.p.a.).
+
+🚀 VERSION 2 FEATURES:
+• Complete modular architecture for enhanced maintainability
+• Professional code organization with functional separation
+• Improved performance and reliability
+
+🔧 CORE FUNCTIONALITIES:
+• RG_COD Management: Manual generation and automated calculation with on/off toggle switch
+• PhotoEditor Integration: Advanced photo management with Google Street View API and custom editor
+• Attachment Management: Complete file handling system with trash management
+• Quality Control: Comprehensive project validation with custom reporting
+• Project Packaging: Automated zip creation for project submission
+• Configuration Management: Advanced settings and preferences system
+
+🏗️ MODULAR ARCHITECTURE:
+• tools/rg_cod/: RG code generation system with automation control
+• tools/photo/: Photo management and editing capabilities
+• tools/attachments/: File attachment and deletion system
+• tools/controller/: Quality assurance and validation tools
+• tools/settings/: Configuration dialogs and preferences
+• tools/zip/: Project compression and progress tracking
+• core/: Shared utilities and configuration management
+• database/: Centralized database connectivity and models
+
+The plugin seamlessly integrates into QGIS interface with a dedicated toolbar for efficient workflow management.</about>
+        <version>2.0.0</version>
+        <qgis_minimum_version>3.0</qgis_minimum_version>
+        <qgis_maximum_version>3.99</qgis_maximum_version>
+        <homepage>https://github.com/antatta/antatta-qgis-repository</homepage>
+        <file_name>automate.zip</file_name>
+        <icon>https://raw.githubusercontent.com/antatta/antatta-qgis-repository/main/plugins/automate/icon.png</icon>
+        <author_name>Ing. Antonio Attadia</author_name>
+        <download_url>https://github.com/antatta/antatta-qgis-repository/raw/main/plugins/automate/automate.zip</download_url>
+        <uploaded_by>Ing. Antonio Attadia</uploaded_by>
+        <create_date>2025-09-05</create_date>
+        <update_date>2025-09-05</update_date>
+        <experimental>False</experimental>
+        <deprecated>False</deprecated>
+        <tracker>https://github.com/antatta/antatta-qgis-repository/issues</tracker>
+        <repository>https://github.com/antatta/antatta-qgis-repository</repository>
+        <tags>python, gas infrastructure, project design, automation, photo management, quality control, modular architecture, italgas</tags>
+        <server>False</server>
+        <category>Vector</category>
+        <plugin_id>1</plugin_id>
+    </pyqgis_plugin>
+</plugins>
