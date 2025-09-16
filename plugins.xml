@@ -5,7 +5,7 @@ This file serves as a template for automated plugin deployment.
 
 Template variables:
 - automate: Nome del plugin
-- 2.1.0: Versione del plugin  
+- 2.1.1: Versione del plugin  
 - Plug-in QGIS per progetti di infrastrutture gas: Descrizione breve
 - The AUTOMATE plugin for QGIS v2 is a comprehensive, modular toolkit for GIS-based gas infrastructure project design according to TENG specifications (Italgas Reti S.p.a.).
 
@@ -38,7 +38,7 @@ The plugin seamlessly integrates into QGIS interface with a dedicated toolbar fo
 - https://github.com/antatta/antatta-qgis-repository: Homepage del plugin
 - antatta: Proprietario del repository GitHub
 - antatta-qgis-repository: Nome del repository GitHub
-- 2025-09-13: Data ultimo aggiornamento
+- 2025-09-17: Data ultimo aggiornamento
 - 3.0: Versione minima QGIS
 - 3.99: Versione massima QGIS
 - python, gas infrastructure, project design, automation, photo management, quality control, modular architecture, italgas: Tag separati da virgola
@@ -48,7 +48,7 @@ The plugin seamlessly integrates into QGIS interface with a dedicated toolbar fo
 - False: True/False
 -->
 <plugins>
-    <pyqgis_plugin name="automate" version="2.1.0">
+    <pyqgis_plugin name="automate" version="2.1.1">
         <description><![CDATA[Plug-in QGIS per progetti di infrastrutture gas [TEMPLATE PERSONALIZZATO]]]></description>
         <about><![CDATA[The AUTOMATE plugin for QGIS v2 is a comprehensive, modular toolkit for GIS-based gas infrastructure project design according to TENG specifications (Italgas Reti S.p.a.).
 
@@ -76,7 +76,7 @@ The plugin seamlessly integrates into QGIS interface with a dedicated toolbar fo
 • database/: Centralized database connectivity and models
 
 The plugin seamlessly integrates into QGIS interface with a dedicated toolbar for efficient workflow management.]]></about>
-        <version>2.1.0</version>
+        <version>2.1.1</version>
         <qgis_minimum_version>3.0</qgis_minimum_version>
         <qgis_maximum_version>3.99</qgis_maximum_version>
         <homepage><![CDATA[https://github.com/antatta/antatta-qgis-repository]]></homepage>
@@ -85,8 +85,8 @@ The plugin seamlessly integrates into QGIS interface with a dedicated toolbar fo
         <author_name><![CDATA[Ing. Antonio Attadia]]></author_name>
         <download_url>https://github.com/antatta/antatta-qgis-repository/raw/main/plugins/automate/automate.zip</download_url>
         <uploaded_by><![CDATA[Ing. Antonio Attadia]]></uploaded_by>
-        <create_date>2025-09-13</create_date>
-        <update_date>2025-09-13</update_date>
+        <create_date>2025-09-17</create_date>
+        <update_date>2025-09-17</update_date>
         <experimental>False</experimental>
         <deprecated>False</deprecated>
         <tracker><![CDATA[https://github.com/antatta/antatta-qgis-repository/issues]]></tracker>
