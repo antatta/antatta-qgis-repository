@@ -32,7 +32,7 @@ The plugin seamlessly integrates into QGIS interface with a dedicated toolbar fo
         <qgis_minimum_version>3.0</qgis_minimum_version>
         <qgis_maximum_version></qgis_maximum_version>
         <homepage>https://github.com/antatta/antatta-qgis-repository</homepage>
-        <file_name>AUTOMATE-v2.1.2.zip</file_name>
+        <file_name>AUTOMATE.zip</file_name>
         <icon>https://github.com/antatta/antatta-qgis-repository/raw/main/plugins/automate/icon.png</icon>
         <author_name>Ing. Antonio Attadia</author_name>
         <author_email>info.antatta@gmail.com</author_email>
