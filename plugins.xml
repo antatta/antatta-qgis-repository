@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
-    <pyqgis_plugin name="AUTOMATE" version="2.4.0">
+    <pyqgis_plugin name="automate" version="2.4.0">
         <description><![CDATA[Plug-in QGIS per progetti di infrastrutture gas]]></description>
         <about><![CDATA[The AUTOMATE v2 plugin for QGIS is a comprehensive, modular toolkit for GIS-based gas infrastructure project design according to Tender Project specifications.
 
@@ -38,8 +38,8 @@ The plugin seamlessly integrates into QGIS interface with a dedicated toolbar fo
         <author_email>info.antatta@gmail.com</author_email>
         <download_url>https://github.com/antatta/antatta-qgis-repository/raw/main/plugins/automate/automate.zip</download_url>
         <uploaded_by>Ing. Antonio Attadia</uploaded_by>
-        <create_date>2025-09-19T16:48:06</create_date>
-        <update_date>2025-09-19T16:48:06</update_date>
+        <create_date>2025-09-19T17:01:30</create_date>
+        <update_date>2025-09-19T17:01:30</update_date>
         <experimental>False</experimental>
         <deprecated>False</deprecated>
         <tracker>https://github.com/antatta/antatta-qgis-repository/issues</tracker>
