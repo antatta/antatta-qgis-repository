@@ -69,8 +69,8 @@ Questo repository e i plugin contenuti sono distribuiti sotto licenza [Commercia
 
 ## 🔄 Ultimo Aggiornamento
 
-**Data**: 24 agosto 2025  
-**Plugin**: AUTOMATE v2.0.0
+**Data**: 16 aprile 2026
+**Plugin**: AUTOMATE v2.6.0
 
 ---
 
