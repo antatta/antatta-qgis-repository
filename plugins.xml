@@ -44,8 +44,8 @@ The plugin seamlessly integrates into QGIS interface with a dedicated toolbar fo
         <author_email>info.antatta@gmail.com</author_email>
         <download_url>https://github.com/antatta/antatta-qgis-repository/raw/main/plugins/automate/automate.zip</download_url>
         <uploaded_by>Ing. Antonio Attadia</uploaded_by>
-        <create_date>2026-06-30T17:35:33</create_date>
-        <update_date>2026-06-30T17:35:33</update_date>
+        <create_date>2026-06-30T21:39:24</create_date>
+        <update_date>2026-06-30T21:39:24</update_date>
         <experimental>False</experimental>
         <deprecated>False</deprecated>
         <tracker>https://github.com/antatta/antatta-qgis-repository/issues</tracker>
